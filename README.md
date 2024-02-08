@@ -33,4 +33,4 @@ These are barely suggestions and not required at all, but if you want to brag a 
 You are expected to dedicate a few hours of your afternoon for the  basic challenge, so don't feel pressured to make **all** (or any!) of these bonus points. If you do know how to do these things but don't have the time to actually do the code for them, you can just explain in a technical document how you'd do it and we can discuss it further in the technical interview.
 
 
-[^1]: We know these can be expensive things, so they don't need to be running in the demo, just include the (working!) code you'd use to implement them.
+[^1]: Use a sandbox or demo AWS account. Make sure to delete resources once you are finished and set budgets for your AWS account. Keep screenshots of working app in a directory called `images` in this repo
